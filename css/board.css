@@ -83,3 +83,9 @@
         right: 100%;
     }
 }
+
+@media (max-width:768px) {
+    .game-board {
+        width: 100vw;
+    }
+}
