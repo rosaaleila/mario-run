@@ -3,4 +3,4 @@
 #### Tela de jogo
 ![Game](imgs/game.png)
 #### Tela de Game-Over
-![Game-Over](imgs/gameover-screenshot.png)
+![Game-Over](imgs/gameover-screenshot.PNG)
